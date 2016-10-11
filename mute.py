@@ -1,5 +1,5 @@
 __version__ = '1.0'
-__author__  = 'Igor Ilic - Gac'
+__author__  = 'Spoon & Gac'
 
 import b3
 import b3.events
